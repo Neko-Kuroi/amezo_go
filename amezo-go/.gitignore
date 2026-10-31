@@ -1,0 +1,17 @@
+amezo
+*.fasl
+cloudflared
+trip_secret.txt
+id_secret.txt
+key_secret.txt
+jump_secret.txt
+global.mem
+admin_fail.mem
+config.ini
+delpass.txt
+keys.txt
+*.lock
+*.tmp*
+main/
+zatsu/
+test/
